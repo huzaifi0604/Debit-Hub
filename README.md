@@ -20,6 +20,14 @@ If you want to Check the Application, Just Clone this Repository or download the
   - to run the application: `npm react-native run-android`  
   
 It will take some time to initialize the application especially if you are using `Android Studio` to run the application. 
-After the Application is successfully running you will see an interface something like this:  
+After the Application is successfully running you will see an interface something like this 2nd and Third are Sign in & Sign Up interfaces:  
 ![1st Interface](Project%20Pics/Screenshot_5.png)
-![2nd Interface](Project%20Pics/Screenshot_1.png)
+![1st Interface](Project%20Pics/login.png)
+![1st Interface](Project%20Pics/register.png)  
+You can sign up for custmer panel with your own credentials. But for the Admin panel only the registered admins can access tye panel.  
+For logging into the Admin Panel, You can email me at huzzaifaasim@gmail.com to get your own credentials.  
+Logging into the Admin Panel provides the admin with an amazing interface loke this:  
+![Admin Panel](Project%20Pics/Screenshot_2.png)
+![Admin Panel](Project%20Pics/Screenshot_3.png)  
+All other interfaces can be viewed through the pictures in 'Project Pics' folder in the current Repository.  
+I hope You will enjoy the application.😊
